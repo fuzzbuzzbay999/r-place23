@@ -11,9 +11,9 @@
 
 (function() {
   'use strict';
-  const PASSWORD = "{csv}";
-  const USERNAME = "{csv}";
-  var EMAIL = "{csv}";
+  const PASSWORD = "{SET YOUR OWN MASTER PASSWORD}";
+  const USERNAME = "{NOT USED}";
+  var EMAIL = "{ADD YOUR EMAIL HERE}";
 
   //fetch("https://www.reddit.com/account/register/?experiment_d2x_2020ify_buttons=enabled&experiment_d2x_google_sso_gis_parity=enabled&experiment_d2x_onboarding=enabled&experiment_d2x_am_modal_design_update=enabled");
   //input email
